@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **arjun7236201798@gmail.com** For Collaboration/Project or 
 ---
 [![](https://visitcount.itsvg.in/api?id=arjunkumarpandey45&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username= arjunkumarpandey45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user= arjunkumarpandey45&theme=tokyonight&hide_border=true&background=0D1117" alt="Your GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunkumarpandey45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkumarpandey45&theme=tokyonight&hide_border=true&background=0D1117" alt="Your GitHub Streak" width="48%" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
