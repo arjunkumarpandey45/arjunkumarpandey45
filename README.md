@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arjun Kumar Pandey
-**A passionate MERN Stack Engineer **
+**A passionate JAVA & MERN Engineer **
 
 Email Me 👉 ✉️ **arjun7236201798@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  
