@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **arjun7236201798@gmail.com** For Collaboration/Project or 
 - 🌱 **I’m currently learning:** Java
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** arjun7236201798@gmail.com
-- 😄 **Pronouns:** Arjun 
+- 😄 **Pronouns:** Arjun  
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
