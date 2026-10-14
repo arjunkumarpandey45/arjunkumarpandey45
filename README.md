@@ -1,11 +1,13 @@
 
 <div align="center">
   <h1>Hey, I'm Arjun 👋</h1>
-  <p><strong>Backend Developer • Java & Spring Boot • DSA</strong></p>
+  <p><strong>Backend Developer | Java • Spring Boot • DSA</strong></p>
 
   <a href="https://arjunkumarpandey45.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <br/><br/>
+
   <a href="https://linkedin.com/in/arjun-kumar-pandey-b2a24a330">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,6 +21,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
 
 
 ### A Little About Me
